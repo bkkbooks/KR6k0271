@@ -1,0 +1,168 @@
+canonical_identifier: bkk:krp/KR6k0271/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0271/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律刪補隨機羯磨疏略科
+  identifiers:
+    krp: KR6k0271
+    cbeta: G104n2256
+    cbeta_old_id: G104n2256
+    authorityid: CA0008631
+    json_key: G2256
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2256.xml
+    old_id: G104n2256
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0271_000-G.yaml, hash: 'sha256:5acb857483d1fd06af7810c3c00c20d67a6cdcdf22b1b9f02349e0010fbf48c6'}
+  - {seq: 1, filename: KR6k0271_001-G.yaml, hash: 'sha256:1e361e6e14e7b38b0500f8b01c637e8df248cc07828fc3185b3ba60b12551af4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0271_000-G.markers.yaml, hash: 'sha256:95228349ff021f9fbc9325fd57bc544fe2a9f308661500d256c74d4876460997'}
+  - {seq: 1, role: markers, filename: assets/KR6k0271_001-G.markers.yaml, hash: 'sha256:97865b5a843c51c94bc71bc2a907f0d81a56c5288b6caa1e523bf37dfa83829d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 2897
+  label: 四分律刪補隨機羯磨疏略科草稿本壬申六月晦日始錄七月一日夕錄訖
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-1
+    span:
+    - body
+    - 2
+    - 2
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-2
+    span:
+    - body
+    - 99
+    - 99
+  label: 總科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-3
+    span:
+    - body
+    - 430
+    - 430
+  label: 集法緣成篇第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-4
+    span:
+    - body
+    - 880
+    - 880
+  label: 諸界結解篇第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-5
+    span:
+    - body
+    - 1225
+    - 1225
+  label: 諸戒受法篇第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-6
+    span:
+    - body
+    - 2041
+    - 2041
+  label: 衣藥受淨篇第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-7
+    span:
+    - body
+    - 2368
+    - 2368
+  label: 諸說戒法篇第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-8
+    span:
+    - body
+    - 2462
+    - 2462
+  label: 諸眾安居法篇第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-9
+    span:
+    - body
+    - 2582
+    - 2582
+  label: 諸眾自恣篇第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-10
+    span:
+    - body
+    - 2631
+    - 2631
+  label: 諸分衣法篇第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-11
+    span:
+    - body
+    - 2680
+    - 2680
+  label: 懺六聚法篇第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-12
+    span:
+    - body
+    - 2795
+    - 2795
+  label: 雜法住持篇第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0271_G_001-mulu-13
+    span:
+    - body
+    - 2836
+    - 2836
+  label: 後記
+  type: mulu
+  level: 1
+hash: sha256:7b4a82c479526f827d92580023cd4adb513206682d2ba1049d79d8b3307c6144

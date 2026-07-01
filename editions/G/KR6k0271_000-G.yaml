@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0271/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律刪補隨機羯磨疏略科
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2256.xml
+    old_id: G104n2256
+hash: sha256:5acb857483d1fd06af7810c3c00c20d67a6cdcdf22b1b9f02349e0010fbf48c6
